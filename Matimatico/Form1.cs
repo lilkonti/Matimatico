@@ -21,5 +21,10 @@ namespace Matimatico
         {
 
         }
+
+        private void labelU_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
